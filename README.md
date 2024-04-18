@@ -1,7 +1,7 @@
                                             
 
 # 💫 About Me:
-👩‍💻I'm currently working on Web development<br>☘ I'm currently learning Python, HTML, CSS, JavaScript<br>📝How to reach me serena31may@gmail.com
+👩‍💻I'm currently working on Web development<br>☘ I'm currently learning Python,Java,C++,C,Full Stack Development<br>📝How to reach me serena31may@gmail.com
 
 
 ## 🌐 Socials:
